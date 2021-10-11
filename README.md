@@ -1,6 +1,7 @@
 removed
 
 sudo -i
+
 yum -y install git 
 
 git clone -b master https://github.com/zz4279669/ss-fly.git
